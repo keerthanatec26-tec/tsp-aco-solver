@@ -48,7 +48,11 @@ Ended : MaxMin
 Sequence : <- 12 - 2 - 11 - 10 - 9 - 14 - 4 - 7 - 13 - 8 - 15 - 5 - 1 - 6 - 3 ->
 Total distance travelled to complete the tour : 2780.43
 ```
-
+## Features
+- ACO algorithm implementation
+- Visualization using matplotlib
+- Comparison of different ACO modes (ACS, Elitist, Max-Min)
+- 
 #### Plots 
 ![ACS Tour](tour_plots/ACS.png "ACS Tour")  
 ![Elitist Tour](tour_plots/Elitist.png "Elitist Tour")   
